@@ -9,12 +9,12 @@ export default function Home() {
         <meta name="robots" content="index, follow" />
         <meta property="og:title" content="Get £50 with Octopus Energy" />
         <meta property="og:description" content="Get £50 when you switch to Octopus Energy with this exclusive referral code! This Octopus Energy referral link is your key to unlocking a £50 reward when you sign up. It's the same as a ‘Recommend a Friend’ offer, giving you and your friend £50 each when you join the UK’s leading renewable energy provider. Don't miss out—start saving with Octopus Energy today!" />
-        <meta property="og:url" content="https://your-vercel-url.vercel.app/octopus-energy-referral" />
+        <meta property="og:url" content="https://octopus-landing.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Get £50 When You Join Octopus Energy!" />
         <meta name="twitter:description" content="Sign up for Octopus Energy today and receive £50! Switch to clean, green energy." />
-        <meta name="twitter:image" content="https://your-vercel-url.vercel.app/logo.png" />
+        <meta name="twitter:image" content="https://octopus-landing.vercel.app/logo.png" />
       </Head>
       
       <main className="bg-white p-8 rounded-xl shadow-lg max-w-lg text-gray-900 flex flex-col items-center">
